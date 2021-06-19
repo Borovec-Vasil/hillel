@@ -1,1 +1,6 @@
 print("hello world")
+fdsprint("hello dsfdsfdfds")
+dsfprint("hello world")
+fprint("hello world")
+print("hello world")
+print("hello world")
